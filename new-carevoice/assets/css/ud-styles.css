@@ -1241,6 +1241,9 @@ p {
 }
 
 /* ===== Team CSS ===== */
+.profile{
+  justify-content: center;
+}
 .ud-team {
   padding-top: 120px;
   padding-bottom: 80px;
